@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Book Management System (Collections + Interfaces)
 
 A Java console application that tracks books by author and category using
@@ -91,3 +92,6 @@ java -cp bin com.wipro.library.service.LibraryTransactionService
   Caught expected exception -> MemberLimitExceededException: Member has already
   issued the maximum of 3 books (Member ID: M1)
 ```
+=======
+# Java-
+>>>>>>> 3233efc915d15fcc694a71b06a001f5e45f28e21
